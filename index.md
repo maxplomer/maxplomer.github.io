@@ -6,6 +6,8 @@ layout: home
 ---
 
 
-Hello, I am Max Plomer and welcome to my project portfolio!  You can download a docx of my resume <a href="https://github.com/maxplomer/resume/blob/master/max_plomer_resume.docx?raw=true">here</a>.
+Hello, I am Max Plomer and welcome to my project portfolio!  
 
-Check out my <a href="colombia.mov" target="_blank">video from the mountains of Colombia</a> from my recent trip.
+You can download: <a href="https://github.com/maxplomer/resume/blob/master/max_plomer_resume.docx?raw=true">.docx of my resume</a>
+or
+<a href="colombia.mov" target="_blank">video from the mountains of Colombia from my recent trip</a>.
