@@ -8,4 +8,4 @@ layout: home
 
 Welcome to my portfolio!
 
-Check out my <a href="colombia.mov" target="_blank">video from the mountains of Colombia</a>.
+Check out my <a href="colombia.mov" target="_blank">video from the mountains of Colombia</a> from my recent trip.
