@@ -1,16 +1,13 @@
 ---
 layout: page
-title: About
-permalink: /about/
+title: JavaScriptSandbox.com
+permalink: /javascript-sandbox/
 ---
 
+Simple website to demo your HTML, JavaScript or CSS in the browser.
 
-Max Plomer is a Mechanical Engineer turned Software Engineer 
-based in New York City.  Current technologies excited about: PHP, Wordpress, 
-JavaScript, Node.js, React.js, AngularJS, Ruby, Ruby on Rails, Jekyll, Opal, C#, ASP.NET, 
-SQL, Markdown, YAML, HTML, Python, Matlab, AWS, Git, Mercurial, Machine Learning
+Ruby on Rails on backend, Backbone.js on the frontend.
 
-Feel free to contact me if you want to take your company or project to the next level.  Here is a picture from a recent trip to Colombia.
+Link: <a href="http://www.javascriptsandbox.com" target="_blank">http://www.javascriptsandbox.com</a>
 
 
-<img src="../colombia.jpg"/>
