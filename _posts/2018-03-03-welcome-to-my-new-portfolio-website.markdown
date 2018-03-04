@@ -2,24 +2,12 @@
 layout: post
 title:  "Welcome to my new portfolio website using GitHub Pages!"
 date:   2018-03-03 9:00:00 -0500
-categories: jekyll update
+categories: blog
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
+I just decided to redo my portfolio website using GitHub Pages and Jekyll.
 
-To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+Check out [Part 1 of the Tutorial][Part-1-of-Tutorial] for the initial GitHub Pages setup. And then in [Part 2][Part-2-of-Tutorial] I actually get the site working with a theme and start to customize it.
 
-Jekyll also offers powerful support for code snippets:
+[Part-1-of-Tutorial]:   https://public.3.basecamp.com/p/rs9ZgUv797jiFNaqY82dFDdS
+[Part-2-of-Tutorial]:   https://public.3.basecamp.com/p/zK9DK5XmCU5jnk2NHi1GfriU
 
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
-
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
-
-[jekyll-docs]: https://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
