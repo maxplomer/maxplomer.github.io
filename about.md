@@ -13,4 +13,4 @@ Python, Matlab, AWS, Git, Mercurial, Machine Learning
 Feel free to contact me if you want to take your company or project to the next level.  Here is a picture from a recent trip to South America.
 
 
-<img src="colombia.jpg"/>
+<img src="../colombia.jpg"/>
