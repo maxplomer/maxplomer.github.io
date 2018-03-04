@@ -1,10 +1,10 @@
 ---
 layout: page
-title: JavaScriptSandbox.com
+title: JavaScript Sandbox
 permalink: /javascript-sandbox/
 ---
 
-Simple website to demo your HTML, JavaScript or CSS in the browser.
+Minimal website to demo your HTML, JavaScript or CSS in the browser.
 
 Ruby on Rails on backend, Backbone.js on the frontend.
 

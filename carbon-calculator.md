@@ -4,7 +4,7 @@ title: Carbon Calculator
 permalink: /carbon-calculator/
 ---
 
-Website to track your carbon footprint, fill out the new footprint form to record your daily activity.
+Website to calculate your carbon footprint, fill out the new footprint form to record your daily activity.
 
 Ruby on Rails on backend, AngularJS on the frontend.
 
