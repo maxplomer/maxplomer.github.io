@@ -4,7 +4,7 @@ title: Battleship
 permalink: /battleship/
 ---
 
-Play against the computer in this implementation of the classic battleship boardgame. 
+Play against the computer in this implementation of the classic battleship boardgame.  Sign in using Auth0 authentication.
 
 Ruby on Rails on backend, React.js on the frontend.
 
