@@ -4,15 +4,13 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+Max Plomer is a Mechanical Engineer turned Software Engineer 
+based in New York City.  Current technologies excited about: PHP, Wordpress, 
+JavaScript, Node.js, React.js, AngularJS, Ruby, Ruby on Rails, Opal, C#, ASP.NET, 
+Python, Matlab, AWS, Git, Mercurial, Machine Learning
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+Feel free to contact me if you want to take your company or project to the next level.  Here is a picture from a recent trip to South America.
 
 
-[jekyll-organization]: https://github.com/jekyll
+<img src="colombia.jpg"/>
