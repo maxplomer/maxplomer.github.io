@@ -4,8 +4,6 @@ title: Machine Learning
 permalink: /machine-learning/
 ---
 
-Projects:
-
 Cat and dog detection using MATLAB Machine Learning Toolbox. 
 
 MATLAB code that interfaces with scientifically annotated image database.
