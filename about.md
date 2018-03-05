@@ -10,12 +10,9 @@ You can download: <a href="https://github.com/maxplomer/resume/blob/master/max_p
 or
 <a href="colombia.mov" target="_blank">video from the mountains of Colombia from my recent trip</a>.
 
-Mechanical Engineer turned Software Engineer 
-based in New York City.  Current technologies excited about: PHP, Wordpress, 
-JavaScript, Node.js, React.js, AngularJS, Backbone.js, Ruby, Ruby on Rails, Jekyll, Opal, C#, ASP.NET, 
-SQL, Markdown, YAML, HTML, Python, Matlab, AWS, Git, Mercurial, Machine Learning
+Mechanical Engineer turned Software Engineer based in New York City.  Current technologies excited about: PHP, Wordpress, JavaScript, Node.js, React.js, AngularJS, Backbone.js, Ruby, Ruby on Rails, Jekyll, Opal, C#, ASP.NET, SQL, Markdown, YAML, HTML, Python, Matlab, AWS, Git, Mercurial, Machine Learning
 
-Feel free to contact me if you want to take your company or project to the next level.  
+Feel free to contact me at <a href="tel:203-945-8606">(203) 945-8606</a> or <a href="mailto:maxplomer@gmail.com">maxplomer@gmail.com</a> if you want to take your company or project to the next level.  
 
 <img src="../colombia.jpg"/>
 
