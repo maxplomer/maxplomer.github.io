@@ -12,3 +12,4 @@ Link: <a href="http://codechef-clone.herokuapp.com/" target="_blank">http://code
 
 GitHub: <a href="https://github.com/maxplomer/coding_challenges" target="_blank">https://github.com/maxplomer/coding_challenges</a>
 
+Use Shikashi Gem to run user-submitted Ruby code in a sandbox (refer to success? method): <a href="https://github.com/maxplomer/coding_challenges/blob/master/app/models/solution.rb" target="_blank">https://github.com/maxplomer/coding_challenges/blob/master/app/models/solution.rb</a>
